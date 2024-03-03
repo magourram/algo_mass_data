@@ -3,7 +3,9 @@ Repository containing the project for the AlgoMassData module of the master's de
 
 ## Topic - Image Classification (P4)
 
-> <p align="justify"> An event is a specific occurrence of something that happens in a certain time and a certain place involving one or more participants, which can frequently be described as a change of state. The goal of event detection is to identify event instance(s) in data and, if existing, identify the event type as well as all of its participants and attributes. The goal of the project is to correctly classify test images: the model should be able to discern between soccer-related events and general images, and also classify the specific event occurring.</p>
+> <p align="justify"> Using the "Prado Museum Pictures" dataset of Project 3, the task is to implement a deep-learning-based system classifying pictures according to any reasonable organization of classes (e.g., by author–selecting a manageable subset of authors, or by support). Note that the dataset does not directly contain the picture images, but these can be downloaded separately using the `work_image_url` attribute of the `prado.csv` file. </p>
+
+### Instruction
 
 The repository contains:
 - report.pdf: a brief description of the implemented methodology, the elaboration of the data and the obtained results.
